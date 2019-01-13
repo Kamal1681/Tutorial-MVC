@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Car.h"
+#import "Motorcycle.h"
+#import "Truck.h"
 
 @interface VehicleListTableViewController : UITableViewController
 
